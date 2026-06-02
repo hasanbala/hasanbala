@@ -54,15 +54,6 @@ An open-source React UI component library consisting of 30+ independently scoped
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasanbala&show_icons=true&theme=tokyonight&count_private=true" alt="Hasan's GitHub Stats" height="180px" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hasanbala&layout=compact&theme=tokyonight" alt="Top Languages" height="180px" />
-</p>
-
----
-
 ### 💼 Core Expertise
 
 * **Performance & SEO Optimization:** Deep understanding of lazy loading, code splitting, and Next.js rendering strategies (SSR/SSG).
