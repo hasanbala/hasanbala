@@ -16,7 +16,7 @@
 
 I am a **Frontend Developer** with **4+ years of professional experience** building scalable, high-performance web applications using React, Next.js, TypeScript, and JavaScript (ES6+).
 
-I have delivered 5+ end-to-end projects for enterprise clients—including **Turkcell**, **Enerjisa**, and **E-Markable**—taking full ownership from architecture to production. Through strategic SSR/SSG implementations with Next.js, I have successfully achieved **50%+ improvements in page load times** and measurable gains in SEO and Lighthouse scores.
+I have delivered 5+ end-to-end projects for enterprise clients—including **Turkcell**, **Enerjisa**, **Medisa** and **E-Markable**—taking full ownership from architecture to production. Through strategic SSR/SSG implementations with Next.js, I have successfully achieved **50%+ improvements in page load times** and measurable gains in SEO and Lighthouse scores.
 
 With a foundational background in **Electrical & Electronics Engineering** from Gazi University, I bring a highly analytical, systematic approach to solving complex frontend challenges and building robust UI architectures.
 
