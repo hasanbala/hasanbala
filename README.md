@@ -1,4 +1,6 @@
-# 👋 Hi, I'm Hasan Bala!
+# 👋 Hi, I'm Hasan Bala
+
+**Frontend Developer** · React · TypeScript · Next.js · Creator of [@bearlab](https://www.npmjs.com/org/bearlab)
 
 <p align="left">
   <a href="https://linkedin.com/in/hasan-bala" target="_blank">
@@ -14,54 +16,48 @@
 
 ### 🚀 About Me
 
-I am a **Frontend Developer** with **4+ years of professional experience** building scalable, high-performance web applications using React, Next.js, TypeScript, and JavaScript (ES6+).
+Frontend Developer with **nearly 5 years** of professional experience building enterprise web applications with React, TypeScript and Next.js.
 
-I have delivered 5+ end-to-end projects for enterprise clients—including **Turkcell**, **Enerjisa**, **Medisa** and **E-Markable**—taking full ownership from architecture to production. Through strategic SSR/SSG implementations with Next.js, I have successfully achieved **50%+ improvements in page load times** and measurable gains in SEO and Lighthouse scores.
-
-With a foundational background in **Electrical & Electronics Engineering** from Gazi University, I bring a highly analytical, systematic approach to solving complex frontend challenges and building robust UI architectures.
+- 🏢 Building **admin panels for Sabancı Group companies** (Medisa, Aksigorta, AgeSA) at Proto Yazılım
+- ⚡ Previously led frontend for **5+ enterprise client projects** (Turkcell, Enerjisa, E-Markable), cutting page load times by **50%+** with code splitting, lazy loading and Next.js SSR/SSG
+- 📦 Author of **@bearlab**: 30+ React packages, **50,000+ npm downloads**
+- 🎓 B.Sc. Electrical & Electronics Engineering, Gazi University
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-black?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white" alt="Storybook" />
   <img src="https://img.shields.io/badge/SASS-hotpink?style=for-the-badge&logo=SASS&logoColor=white" alt="SASS" />
   <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
   <img src="https://img.shields.io/badge/jira-%230052CC.svg?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" />
 </p>
 
----
-
-### 📦 Featured Open Source Project
-
-#### [🐻 Bearlab UI](https://github.com/hasanbala/bearlab-ui) – Modular React Component Library
-
-An open-source React UI component library consisting of 30+ independently scoped npm packages, designed for tree-shaking, type safety, and seamless scalability.
-
-- 📦 **30+ Scoped Packages:** Includes Input, Button, Modal, Date, Dropzone, Notification, Select, and more.
-- 📈 **50,000+ Total Downloads:** Actively maintained and trusted by the open-source community since its launch in September 2025.
-- ⚡ **Performance First:** Architected with a monorepo structure, fully typed with TypeScript, and highly optimized for modern bundle sizes.
-- 🌐 **Live Demo:** [bearlab-ui.vercel.app](https://bearlab-ui.vercel.app/) | **npm Org:** [npmjs.com/org/bearlab](https://www.npmjs.com/org/bearlab)
+**Also in freelance & R&D projects:** Zustand · TanStack Query · Feature-Sliced Design · Micro Frontends (Module Federation)
 
 ---
 
-### 💼 Core Expertise
+### 📦 Featured Project: [🐻 Bearlab UI](https://github.com/hasanbala/bearlab-ui)
 
-- **Performance & SEO Optimization:** Deep understanding of lazy loading, code splitting, and Next.js rendering strategies (SSR/SSG).
-- **Component-Driven Architecture:** Designing reusable, accessible, and highly maintainable UI libraries from scratch.
-- **Agile Collaboration:** Proven track record in remote/hybrid Scrum environments, collaborating closely with design, backend, and QA teams.
+Open-source React component library of 30+ independently published npm packages, built for tree-shaking and type safety.
+
+- 📦 **30+ scoped packages:** Input, Button, Modal, Select, Date, Dropzone, Notification and more
+- 📈 **50,000+ total downloads** since launch in September 2025
+- ⚡ **TypeScript monorepo** built with Vite; each package is independently installable and tree-shakeable
+- 📚 **Documented in Storybook:** [bearlab-ui.vercel.app](https://bearlab-ui.vercel.app/) · [npm](https://www.npmjs.com/org/bearlab)
 
 ---
 
-### 📫 Connect With Me
+### 📫 Connect
 
-- 💼 **LinkedIn:** [/in/hasan-bala](https://linkedin.com/in/hasan-bala)
-- 📩 **Email:** [balahasan.35@gmail.com](mailto:balahasan.35@gmail.com)
-- 📍 **Location:** Konya, Turkiye (Open to Remote or Hybrid frontend roles)
+- 💼 [LinkedIn](https://linkedin.com/in/hasan-bala) · 📩 [balahasan.35@gmail.com](mailto:balahasan.35@gmail.com)
+- 📍 Konya, Türkiye · Open to remote or hybrid frontend roles
